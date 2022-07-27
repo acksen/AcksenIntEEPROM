@@ -3,7 +3,7 @@ Arduino Library for storing data in 8-bit AVR internal EEPROM memory.
 
 ## Documentation
 
-Doxygen Documentation at [Github Pages](https://acksen.github.io/AcksenIntEEPROM/)
+Doxygen Documentation at [Github Pages](https://acksen.github.io/AcksenIntEEPROM/docs/html/index.html)
 
 ## Introduction
 
